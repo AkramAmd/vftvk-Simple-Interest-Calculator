@@ -3,21 +3,15 @@ body {
         font-family: Arial;
         color: white;
 }
-footer{
-    margin-top: 10px;
-}
 h1{color:grey;}
 
 .maindiv {
     background-color: white;
     color:black;
-    width:400px;
+    width:600px;
     padding: 20px;
     border-radius: 25px;
     align-items: center;
-}
-.noyears{
-    padding-bottom: 5px;
 }
 
 
