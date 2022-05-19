@@ -19,5 +19,12 @@ h1{color:grey;}
 .submitButton{
     padding-top: 5px;
 }
+#principal{
+    border-radius: 1rem;
+    margin-left: 35px;
+}
+#years{
+    margin-left: 5px;
+}
 
 
